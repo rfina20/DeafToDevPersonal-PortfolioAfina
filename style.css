@@ -281,5 +281,9 @@ footer{
     .education-card{
         flex: 0 1 97%;
     }
+
+    .description{
+        display: inline-block;
+    }
 }
 
