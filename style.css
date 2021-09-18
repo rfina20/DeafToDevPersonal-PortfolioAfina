@@ -282,8 +282,13 @@ footer{
         flex: 0 1 97%;
     }
 
-    .description{
-        display: inline-block;
+    #judul-portfolio{
+        height: fit-content;
+        width: fit-content;
+    }
+
+    .portfolio-card div h1, .portfolio-card div p {
+        margin: 16px;
     }
 }
 
